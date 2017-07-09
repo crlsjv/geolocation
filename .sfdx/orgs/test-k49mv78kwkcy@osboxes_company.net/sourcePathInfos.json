@@ -2,14 +2,14 @@
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1499590164569,
             "changeTime": 1499590164569,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1499590164569,
             "changeTime": 1499590164569,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,39 +37,37 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1499592568529,
-            "changeTime": 1499592568529,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "modifiedTime": 1499616845556,
+            "changeTime": 1499616845556,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1499590164569,
-            "changeTime": 1499590164569,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1499615624348,
+            "changeTime": 1499615624348,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation",
         {
-            "state": "n",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1499590627549,
-            "changeTime": 1499590627549,
-            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "modifiedTime": 1499612037731,
+            "changeTime": 1499612037731,
+            "contentHash": "5d1ba67a05d9fb577dcd0d085dc7ad2330ae4563",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -660,157 +658,378 @@
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10757,
             "modifiedTime": 1499592568525,
             "changeTime": 1499592568525,
-            "contentHash": "66660b8152a7b5e24e24fce057695fe5c89f630b"
+            "contentHash": "66660b8152a7b5e24e24fce057695fe5c89f630b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10757,
             "modifiedTime": 1499592568525,
             "changeTime": 1499592568525,
-            "contentHash": "fd1ca92b9cb461978873813339e3fd5cbd82ee7f"
+            "contentHash": "fd1ca92b9cb461978873813339e3fd5cbd82ee7f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10769,
             "modifiedTime": 1499592568529,
             "changeTime": 1499592568529,
-            "contentHash": "a6f7c45913576b81142ea7f2bd66538639f75fa1"
+            "contentHash": "a6f7c45913576b81142ea7f2bd66538639f75fa1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10773,
             "modifiedTime": 1499592568529,
             "changeTime": 1499592568529,
-            "contentHash": "f109e39e243acebb54dcca9a9f076097b06917b8"
+            "contentHash": "f109e39e243acebb54dcca9a9f076097b06917b8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5961,
             "modifiedTime": 1499592568529,
             "changeTime": 1499592568529,
-            "contentHash": "a6a31594a882e6f5f5aa706ce3a4d37b87313f26"
+            "contentHash": "a6a31594a882e6f5f5aa706ce3a4d37b87313f26",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1499592568521,
             "changeTime": 1499592568521,
-            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d"
+            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1499592568493,
             "changeTime": 1499592568493,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1499592568517,
             "changeTime": 1499592568517,
-            "contentHash": "bfd837c31714ac93bd124f417af03e00cc54688b"
+            "contentHash": "bfd837c31714ac93bd124f417af03e00cc54688b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/objects/Account/webLinks",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/objects/Account/webLinks",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1499592568521,
             "changeTime": 1499592568521,
-            "contentHash": "0caec06144c909e4216d06654080dee841554608"
+            "contentHash": "0caec06144c909e4216d06654080dee841554608",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/objects/Account/listViews",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/objects/Account/listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1499592568521,
             "changeTime": 1499592568521,
-            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05"
+            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1499592568529,
             "changeTime": 1499592568529,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1499592568529,
             "changeTime": 1499592568529,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/classes",
+        {
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1499615517308,
+            "changeTime": 1499615517308,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 293,
+            "modifiedTime": 1499615517300,
+            "changeTime": 1499615517308,
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1499615442732,
+            "changeTime": 1499615442732,
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1499615731391,
+            "changeTime": 1499615731391,
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 157,
+            "modifiedTime": 1499615693799,
+            "changeTime": 1499615693803,
+            "contentHash": "0156aa8f69e1e3c49a79f55b0b4559078c85787d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1499615624348,
+            "changeTime": 1499615624348,
+            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 92,
+            "modifiedTime": 1499615731379,
+            "changeTime": 1499615731391,
+            "contentHash": "2252c3c8240606770ad85210fb6c35c3f304faa9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1499615624348,
+            "changeTime": 1499615624348,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1499615624348,
+            "changeTime": 1499615624348,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1499615624372,
+            "changeTime": 1499615624372,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1499616845552,
+            "changeTime": 1499616845552,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22375,
+            "modifiedTime": 1499616845556,
+            "changeTime": 1499616845556,
+            "contentHash": "651eda5ce7aa2f99d444fff93f992536d5914722"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10490,
+            "modifiedTime": 1499616845556,
+            "changeTime": 1499616845556,
+            "contentHash": "1baf7c87685505be551b0dc2c71ca4c43fb13a41"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10152,
+            "modifiedTime": 1499616845556,
+            "changeTime": 1499616845556,
+            "contentHash": "b62b6054e4dbdeefa894d46651160db2f7fb8494"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10152,
+            "modifiedTime": 1499616845556,
+            "changeTime": 1499616845556,
+            "contentHash": "b62b6054e4dbdeefa894d46651160db2f7fb8494"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1499616845552,
+            "changeTime": 1499616845552,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/home/osboxes/temporal/sfdxsamples/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1499616845556,
+            "changeTime": 1499616845556,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
